@@ -8,7 +8,8 @@
     "skill_used": "electronics",
     "skills_required": [ "computer", 2 ],
     "difficulty": 1,
-    "time": "30 m",
-	"using": [ ["third_printing", 1 ] ],
+	"autolearn": true,
+    "time": "10 m",
+	"using": [ ["third_printing", 1 ] ]
   }
 ]
