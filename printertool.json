@@ -1,0 +1,31 @@
+[  
+{
+    "id": "thi_printer",
+    "type": "TOOL",
+    "name": { "str": "desk 3d printer" },
+    "description": "A big square, hollow device with mechanical arms on it's roof, it can replicate plastic items by laying down melted plastic.",
+    "weight": "3400 g",
+    "volume": "3500 ml",
+    "price": 9000,
+    "price_postapoc": 750,
+    "to_hit": -2,
+    "bashing": 2,
+    "material": [ "steel", "plastic" ],
+    "symbol": "E",
+    "color": "white",
+    "ammo": [ "battery" ],
+    "charges_per_use": 5,
+    "qualities": [ [ "THIRDPRINT", 1 ] ],
+    "flags": [ "ALLOWS_REMOTE_USE" ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE_WELL",
+        "rigid": true,
+        "holster": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "item_restriction": [ "medium_battery_cell", "medium_plus_battery_cell", "medium_atomic_battery_cell", "medium_disposable_cell" ]
+      }
+    ]
+  }
+]
