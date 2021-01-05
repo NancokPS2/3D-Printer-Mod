@@ -1,0 +1,14 @@
+[
+  {
+    "id": "third_printing",
+    "type": "requirement",
+    "//": "Soldering metal items",
+    "tools": [ [ [ "thi_printer", 1 ], [ "toolset", 1 ] ] ],
+    "components": [ [ [ "thi_plastic_filament", 1 ] ] ]
+  },  
+  {
+    "type": "tool_quality",
+    "id": "THIRDPRINT",
+    "name": { "str": "3d printing" }
+  }
+]

@@ -1,5 +1,20 @@
 [  
-{
+  {
+    "id": "thi_plastic_filament",
+    "type": "TOOL",
+    "category": "spare_parts",
+    "name": { "str": "plastic filament" },
+    "description": "A spool of plastic filament. Easy to melt and perfect for a 3d printer.",
+    "weight": "8 g",
+    "volume": "5 ml",
+    "price": 10,
+    "price_postapoc": 3,
+    "material": [ "plastic" ],
+    "symbol": "~",
+    "color": "light_blue",
+    "flags": [ "NO_SALVAGE" ]
+  },
+  {
     "id": "thi_printer",
     "type": "TOOL",
     "name": { "str": "desk 3d printer" },

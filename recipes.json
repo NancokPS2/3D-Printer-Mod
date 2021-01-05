@@ -9,10 +9,6 @@
     "skills_required": [ "computer", 2 ],
     "difficulty": 1,
     "time": "30 m",
-    "qualities": [ { "id": "THIRDPRINT", "level": 1 } ],
-    "tools": [ [ [ "thi_printer", 5 ] ] ],
-  },
-  {
-    "type": "recipe"
+	"using": [ ["third_printing", 1 ] ],
   }
 ]

@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Third_Dimension_Printing",
+    "name": "3D Printers",
+    "authors": "Nancok",
+    "description": "Adds 3D printers and recipes for them.",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]
